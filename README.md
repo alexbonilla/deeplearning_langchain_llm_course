@@ -2,7 +2,7 @@
 
 This is the work course, available for free at https://www.deeplearning.ai/short-courses/. 
 
-While following locally the examples codes provided in the course, I realized they used datasets that are not provided. So I added two datasets from kaggle.com and adapted the examples to perform the llm operations over them:
+While following locally the examples in the Jupyter Notebooks, I realized they used datasets that are not provided. So I added two datasets from kaggle.com and adapted the examples to perform the llm operations over them:
 
 1. https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 2. https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog
